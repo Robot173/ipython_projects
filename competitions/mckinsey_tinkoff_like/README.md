@@ -4,4 +4,4 @@ There are several files:
 - tkf_preprocessing - preprocessing initial datasets for using in ML;
 - tkf_modelling - creating user scorers, finding optimal hyperparameters, generating answer.
 
-These files were created with [@EienKotonaru] (https://github.com/EienKotonaru/tinkoff_hackathon)
+These files were created with [@EienKotonaru](https://github.com/EienKotonaru/tinkoff_hackathon)
